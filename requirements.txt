@@ -7,4 +7,5 @@ sounddevice
 wave
 python-dotenv
 langchain_groq
-AppKitpyobjc-framework-Cocoa
+AppKit #for MacOS
+pyobjc-framework-Cocoa
